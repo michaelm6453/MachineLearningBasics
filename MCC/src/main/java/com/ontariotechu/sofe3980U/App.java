@@ -93,7 +93,7 @@ public class App {
 				for (int j = 0; j < 5; j++) {
 					System.out.printf("    %5d", confusionMatrix[i][j]);
 				}
-				System.out.println(); 
+				System.out.println();
 			}
 		}
 	}
